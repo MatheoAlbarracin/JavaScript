@@ -1,0 +1,6 @@
+[
+    {"id": "1", "tag": "Zapatillas Rojas", "precio": 15000, "imagen": "./imagenes/a1.jpg"},
+    {"id": "2", "tag": "Zapatillas Adidas", "precio": 12500, "imagen": "./imagenes/a2.jpg"},
+    {"id": "3", "tag": "Zapatillas Negras", "precio": 13500, "imagen": "./imagenes/a3.jpg"},
+    {"id": "4", "tag": "Zapatillas Rojas", "precio": 10500, "imagen": "./imagenes/a4.jpg"}
+]
